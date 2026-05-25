@@ -2,3 +2,4 @@ ansible/inventory.ini
 *.key
 *.pem
 id_*
+ansible/inventory.ini
